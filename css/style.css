@@ -32,9 +32,9 @@ p  {
 	font-size: 0.8em;margin: 20px 20px}
 h1{color: rgb(152,173,166);font-family:'Baskerville';font-size:5em;opacity:1;margin:0;}
 h2 {font-size: 2em;font-weight: bold;color:rgb(111,127,122);}
-img.feature{border:solid 0.25em rgb(152,173,166);margin:inherit;width:aut}
-img{border: solid 5px #ccc;margin:0 2px;}
+img.feature{border:solid 0.25em rgb(152,173,166);margin:inherit;width:auto;}
+img{border: solid 5px #ccc;margin:0 1px;}
 
-#press img:hover {
-	border: 5px rgb(111,127,122) solid;
+.press img:hover {
+	border: solid 5px rgb(111,127,122);
 }
